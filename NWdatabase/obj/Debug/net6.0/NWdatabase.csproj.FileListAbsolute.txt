@@ -1,0 +1,14 @@
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\bin\Debug\net6.0\NWdatabase.deps.json
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\bin\Debug\net6.0\NWdatabase.runtimeconfig.json
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\bin\Debug\net6.0\NWdatabase.dll
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\bin\Debug\net6.0\NWdatabase.pdb
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\obj\Debug\net6.0\NWdatabase.csproj.AssemblyReference.cache
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\obj\Debug\net6.0\NWdatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\obj\Debug\net6.0\NWdatabase.AssemblyInfoInputs.cache
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\obj\Debug\net6.0\NWdatabase.AssemblyInfo.cs
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\obj\Debug\net6.0\NWdatabase.csproj.CoreCompileInputs.cache
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\obj\Debug\net6.0\NWdatabase.dll
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\obj\Debug\net6.0\refint\NWdatabase.dll
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\obj\Debug\net6.0\NWdatabase.pdb
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\obj\Debug\net6.0\NWdatabase.genruntimeconfig.cache
+C:\Users\mariu\source\repos\Kod\NWdatabase\NWdatabase\NWdatabase\obj\Debug\net6.0\ref\NWdatabase.dll
