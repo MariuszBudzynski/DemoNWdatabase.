@@ -1155,22 +1155,6 @@
             "rid": "win"
           }
         }
-      },
-      "MVC_Demo/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "7.0.10"
-        },
-        "compile": {
-          "bin/placeholder/MVC_Demo.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MVC_Demo.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
       }
     }
   },
@@ -3516,16 +3500,10 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "MVC_Demo/1.0.0": {
-      "type": "project",
-      "path": "../../../MVC_Demo/MVC_Demo/MVC_Demo/MVC_Demo.csproj",
-      "msbuildProject": "../../../MVC_Demo/MVC_Demo/MVC_Demo/MVC_Demo.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "MVC_Demo >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.10",
@@ -3563,11 +3541,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\mariu\\source\\repos\\Kod\\MVC_Demo\\MVC_Demo\\MVC_Demo\\MVC_Demo.csproj": {
-              "projectPath": "C:\\Users\\mariu\\source\\repos\\Kod\\MVC_Demo\\MVC_Demo\\MVC_Demo\\MVC_Demo.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -18,9 +18,4 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
   </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\MVC_Demo\MVC_Demo\MVC_Demo\MVC_Demo.csproj" />
-  </ItemGroup>
-
 </Project>
